@@ -1,0 +1,6 @@
+C:\Users\alapa\AppData\Local\Programs\Microsoft VS Code
+
+C:\Users\alapa\AppData\Local\Programs
+
+
+https://github.com/msbifullstack-hash/dbt_learn_repos.git
